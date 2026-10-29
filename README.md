@@ -1,7 +1,9 @@
  
 <div align="center">
 
-# 👋 Hey, I'm amirvirus369
+<a href="https://github.com/amirvirus369">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&deleteSpeed=40&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+amirvirus369;Backend+Developer;Python+%7C+Django+%7C+DRF;Django+Channels+%7C+Celery;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</a>
 
 ### 🐍 Backend Developer | Python • Django • Django REST Framework
 
@@ -49,25 +51,6 @@ Building scalable, reliable, and maintainable web applications.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amirvirus369&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirvirus369&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amirvirus369&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
