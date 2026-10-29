@@ -67,7 +67,7 @@ Building scalable, reliable, and maintainable web applications.
 
 <div align="center">
 
-### 💡 "Great software is built one thoughtful line of code at a time."
+### 💡 "What is not seen is the most important part."
 
 ⭐ Thanks for visiting my profile!
 
